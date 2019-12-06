@@ -25,7 +25,7 @@ SECRET_KEY = False
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = [girlsonlyschools.ng]
+ALLOWED_HOSTS = []
 
 
 # Application definition
