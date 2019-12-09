@@ -25,7 +25,7 @@ SECRET_KEY = '^5i#7qal&iy&a73zcvtf1ms%4f9(n62l&-po!z=tw1tbmb+&6k'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['girlsonlyschool.heroku.com']
+ALLOWED_HOSTS = ['girlsonlyschool.herokuapp.com']
 
 
 # Application definition
